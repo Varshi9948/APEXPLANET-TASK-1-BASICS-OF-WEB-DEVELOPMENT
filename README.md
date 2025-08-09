@@ -9,3 +9,5 @@ INTERN ID:APSPL2515123
 DURATION:6 WEEKS
 
 OUTPUT:
+
+<img width="909" height="864" alt="Image" src="https://github.com/user-attachments/assets/a036b187-049d-4970-aba3-b496a1f00de1" />
